@@ -5,5 +5,5 @@ This repository is for `codeglass-clf` that returns categories of given descript
 # How to run
 
 ```py
-$ FLASK_APP=app.py flask run
+FLASK_APP=app.py flask run
 ```
